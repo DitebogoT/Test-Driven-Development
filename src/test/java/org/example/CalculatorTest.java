@@ -26,4 +26,5 @@ public class CalculatorTest extends TestCase {
         assertEquals(6.0,calculator.divide(36,6));
     }
 
+
 }
